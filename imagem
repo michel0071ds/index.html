@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<body>
+    <table border="4" bgcolor="#33FF99" bordercolor="#FF00FF">
+        <tr>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+            <td>...</td>
+        </tr>
+    </table>
+
+    <img src="paisagem.jpg" width="300">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Paisagem_no_Inhotim.jpg?utm_source=pt.wikipedia">
+</body>
+</html>
